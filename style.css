@@ -1,0 +1,28 @@
+body {
+  background-image: url('background.jpg');
+}
+
+.container {
+  width: 500px;
+  margin: auto;
+}
+
+.logo {
+  width: 200px;
+}
+
+.logo-text {
+  font-size: 30px;
+  font-family: 'Atkinson Hyperlegible', sans-serif;
+  color: limegreen;
+}
+
+.nav-button {
+  background-color: limegreen;
+  padding: 5px;
+}
+
+.text-row {
+  display: inline-block;
+  color: white;
+}
